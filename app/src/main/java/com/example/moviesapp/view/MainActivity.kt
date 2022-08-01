@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity(), CustomAdapter.ItemClickListener {
         initViews()
         initObservers()
         mViewModel.getMovies()
+        println("this contained my second commit")
+
     }
 
     private fun initObservers() {
