@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity(), CustomAdapter.ItemClickListener {
         mViewModel.getMovies()
         println("this contained my second commit")
         println("We are for Experimental branch ")
+        println("Just active commit")
 
     }
 
