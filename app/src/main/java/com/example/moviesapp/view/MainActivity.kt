@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity(), CustomAdapter.ItemClickListener {
         println("this contained my second commit")
         println("We are for Experimental branch ")
         println("Just active commit")
-        println("3 august 2022 ")
+        println("3 august 2022")
 
     }
 
