@@ -21,6 +21,11 @@ class MainActivity : AppCompatActivity(), CustomAdapter.ItemClickListener {
         initViews()
         initObservers()
         mViewModel.getMovies()
+        println("this contained my second commit")
+        println("We are for Experimental branch ")
+        println("Just active commit")
+        println("3 august 2022")
+
     }
 
     private fun initObservers() {
